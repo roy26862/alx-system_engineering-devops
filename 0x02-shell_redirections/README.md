@@ -13,4 +13,8 @@ What is being done by each file
 
 5-firstlines - Display the first 10 lines of /etc/passwd
 
+6-third_line
 
+7-file
+
+8-cwd_state
